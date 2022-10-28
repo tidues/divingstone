@@ -1,13 +1,12 @@
 theme: jekyll-theme-minimal
-title: 跳水石的随想与诗
-  # description: Bookmark this to keep an eye on my project updates!
-  # lsi: false
-  # safe: true
-  # source: [docs]
-  # incremental: false
-  # highlighter: rouge
-  # gist:
-  #   noscript: false
-  # kramdown:
-  #   math_engine: mathjax
-  #   syntax_highlighter: rouge
+title: 落水石：随想与诗
+description: 自由的人不需要说话
+lsi: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
