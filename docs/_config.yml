@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: 落水石：诗与随想
-email: tidues@gmail.com
+  # email: tidues@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   地上残留的白痕 是飞鸟经过的仅存见证 而他却带走了风
 baseurl: "/divingstone" # the subpath of your site, e.g. /blog
