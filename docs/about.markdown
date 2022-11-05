@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 走进门
+title: About
 permalink: /about/
 ---
 
