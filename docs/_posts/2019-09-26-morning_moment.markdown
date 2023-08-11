@@ -10,10 +10,10 @@ they are popping, colliding, disappearing\
 they are unmethodical, unpredictable, indeterminable\
 at the time when I'm chilling\
 sitting back\
-holding a warm tea\
+holding a warm tea
 
 I to my cells is like\
-the universe to humanity\
+the universe to humanity
 
 So, happy the sad\
 believe the contradiction\
