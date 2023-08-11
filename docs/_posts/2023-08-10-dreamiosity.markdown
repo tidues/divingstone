@@ -8,7 +8,7 @@ categories: poem
 Some\
 Thing \
 Wanna be breaking out\
-The fucking bitch is tearing my head\
+The dying bitch is tearing my head\
 Try real hard\
 Every millisecond\
 Harder\
