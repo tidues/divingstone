@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poet] Flight Away"
+title:  "[Poem] Flight Away"
 date:   2023-03-19 11:30:15 -0500
-categories: poet
+categories: poem
 ---
 
 Moon, dark, waves\

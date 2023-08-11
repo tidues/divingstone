@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poet] 新的时代"
+title:  "[Poem] 新的时代"
 date:   2022-09-05 01:44:15 -0500
-categories: poet
+categories: poem
 ---
 
 老人们看到\

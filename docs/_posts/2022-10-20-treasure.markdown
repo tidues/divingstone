@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poet] 宝藏梦"
+title:  "[Poem] 宝藏梦"
 date:   2022-10-20 01:44:15 -0500
-categories: poet
+categories: poem
 ---
 
 一起去海底找宝藏\

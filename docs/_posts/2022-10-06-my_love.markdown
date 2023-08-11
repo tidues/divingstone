@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "[Poem] Love"
+date:   2022-10-30 01:44:15 -0500
+categories: poem
+---
+
+刮风\
+飘雪\
+大太阳\
+两个小人\
+在无垠的路上

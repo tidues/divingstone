@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poet] 机械旋转"
+title:  "[Poem] 机械旋转"
 date:   2023-01-24 11:30:15 -0500
-categories: poet
+categories: poem
 ---
 
 像一个旧锈的齿轮\

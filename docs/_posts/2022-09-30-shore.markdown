@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poet] 岸边尖石"
+title:  "[Poem] 岸边尖石"
 date:   2022-08-14 01:44:15 -0500
-categories: poet
+categories: poem
 ---
 
 离岸边十几米\

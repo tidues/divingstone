@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "[Poem] Ruleless"
+date:   2023-05-01 11:30:15 -0500
+categories: poem
+---
+
+红红红\
+白白白\
+红白白\
+红红\
+白\
+白红白白\
+黑红白\
+白白白自\
+白自白\
+咸
