@@ -56,7 +56,7 @@ categories: poetry
 Everything gonna be alright\
 Everything gonna be alright\
 Everything gonna be alright, yeah~\
-Everything gona be alright
+Everything gonna be alright
 
 就好像\
 我也有了信仰
