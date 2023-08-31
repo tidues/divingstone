@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Poetry] A looped dreamiosity"
+title:  "[Poetry] A loopy dreamiosity"
 date:   2023-08-10 11:30:15 -0500
 categories: poetry
 ---
