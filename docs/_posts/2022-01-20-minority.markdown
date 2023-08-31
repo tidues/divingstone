@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] 少数派"
+title:  "[Poetry] 少数派"
 date:   2022-01-20 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 五十是一百零一的少数派\

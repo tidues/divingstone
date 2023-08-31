@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] 生死"
+title:  "[Poetry] 生死"
 date:   2022-10-28 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 在幻想中\

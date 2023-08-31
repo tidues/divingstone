@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] A Morning Moment"
+title:  "[Poetry] A Morning Moment"
 date:   2021-09-26 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 See my molecules\

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] Destiny"
+title:  "[Poetry] Destiny"
 date:   2022-11-05 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 一个透明的立方体\

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] Love"
-date:   2022-10-30 01:44:15 -0500
-categories: poem
+title:  "[Poetry] Love"
+date:   2022-10-06 01:44:15 -0500
+categories: poetry
 ---
 
 刮风\

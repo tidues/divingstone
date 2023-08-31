@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] Paper Writing"
-date:   2023-05-01 11:30:15 -0500
-categories: poem
+title:  "[Poetry] Paper Writing"
+date:   2023-04-08 11:30:15 -0500
+categories: poetry
 ---
 
 When I am writing a paper\

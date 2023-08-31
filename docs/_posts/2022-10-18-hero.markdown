@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] 英雄"
+title:  "[Poetry] 英雄"
 date:   2022-10-18 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 穿上白色的披风\

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] 小野火"
+title:  "[Poetry] 小野火"
 date:   2022-12-14 23:30:15 -0500
-categories: poem
+categories: poetry
 ---
 
 一天黑色\

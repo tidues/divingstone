@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] 我与我"
+title:  "[Poetry] 我与我"
 date:   2022-02-20 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 一线路\

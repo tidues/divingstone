@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] Passage"
+title:  "[Poetry] Passage"
 date:   2021-10-21 01:44:15 -0500
-categories: poem
+categories: poetry
 ---
 
 当乳白色的软胶缓慢褪去\

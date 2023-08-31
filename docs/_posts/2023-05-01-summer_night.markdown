@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "[Poem] 夏夜记忆"
+title:  "[Poetry] 夏夜记忆"
 date:   2023-05-01 11:30:15 -0500
-categories: poem
+categories: poetry
 ---
 
 夏夜树林\
