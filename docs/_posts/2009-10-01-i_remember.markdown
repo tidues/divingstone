@@ -26,12 +26,13 @@ categories: poetry
 爬窗子进爸妈的房间只为玩小霸王\
 天气坏的时候会莫名的忧伤\
 暑假过久了也会喊无聊\
-拿着济公的故事从天亮看到夕阳
+拿着济公的故事\
+从天亮看到夕阳\
 那是坐在奶奶的老藤椅上
 
 然后我们慢慢长大\
 一些朋友我们遇到\
-一些朋友我们失去
+一些朋友我们失去\
 在旅途上
 
 不管这是一个多伟大的时代\
@@ -50,7 +51,7 @@ categories: poetry
 然后这种近似于心跳的律动\
 就成为天籁般的雷鬼\
 荡漾着我们的灵魂\
-听着bob marley如圣经般地诵念
+听着Bob Marley如圣经般地诵唱
 
 Everything gonna be alright\
 Everything gonna be alright\
